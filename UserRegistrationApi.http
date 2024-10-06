@@ -1,0 +1,4 @@
+@UserRegistrationApi_HostAddress = http://localhost:5276
+
+GET {{UserRegistrationApi_HostAddress}}/api/
+Accept: application/json
